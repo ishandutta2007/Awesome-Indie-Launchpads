@@ -67,6 +67,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Indie Launchpad & Directory Platforms
 
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+  Open-source automation tool widely used to build custom indie launch notification and promotion systems.
+
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+  Open-source Notion alternative used by indie communities for organizing launches and feedback.
+
+- **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+  Modern open-source CRM that many indie makers use as a foundation for community and launch management.
+
+- **[Huginn](https://github.com/huginn/huginn)** [![Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
+  Open-source personal automation agent for monitoring and promoting indie launches across platforms.
+
+- **[Docmost](https://github.com/docmost/docmost)** [![Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+  Open-source collaborative wiki ideal for indie maker communities and launch documentation.
+
 - **[Product Hunt Open-Source Clones](https://github.com/search?q=product+hunt+clone)**  
   Multiple community-driven open-source alternatives to Product Hunt for self-hosted launch directories.
 
@@ -82,28 +97,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Dev Hunt Alternatives](https://github.com/search?q=dev+hunt+open+source)**  
   Community repositories for developer-focused self-hosted launch and discovery platforms.
 
-- **[n8n Launch Workflows](https://github.com/n8n-io/n8n)**  
-  Open-source automation tool widely used to build custom indie launch notification and promotion systems.
-
-- **[Huginn Launch Agents](https://github.com/huginn/huginn)**  
-  Open-source personal automation agent for monitoring and promoting indie launches across platforms.
-
-- **[Twenty](https://github.com/twentyhq/twenty)**  
-  Modern open-source CRM that many indie makers use as a foundation for community and launch management.
-
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)**  
-  Open-source Notion alternative used by indie communities for organizing launches and feedback.
-
-- **[Docmost](https://github.com/docmost/docmost)**  
-  Open-source collaborative wiki ideal for indie maker communities and launch documentation.
-
 ### Additional Strong Open-Source Options
+
+- **[Cal.com](https://github.com/calcom/cal.com)** [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+  Open-source scheduling for indie launch events and demos.
 
 - **[Betali.st open clones](https://github.com/search?q=betalist+clone)** — Self-hosted early-stage project directories.
 - **[SaaSHub](https://github.com/search?q=saashub+open+source)** — Open-source alternatives for software directories.
 - **[GitHub + Discussions** as launch platforms with custom bots.
 - **[LangGraph + CrewAI** templates for autonomous indie launch promotion agents.
-- **[Cal.com](https://github.com/calcom/cal.com)** — Open-source scheduling for indie launch events and demos.
 - Many community **"Show HN" style** self-hosted forums and directories.
 
 **Frameworks for building custom launchpads**: Combine **Product Hunt clones**, **n8n**, **Huginn**, and **Twenty** with **Ollama** to create fully open, community-owned indie launch ecosystems.
