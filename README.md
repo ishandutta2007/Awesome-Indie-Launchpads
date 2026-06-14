@@ -21,6 +21,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
+### Pricing Comparison
+
+| Platform | Pricing | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- |
+| **[Sidehunt](https://sidehunt.com/)** | Free / $19 per launch | Requires site badge; nofollow links; standard queue. | Dedicated platform for launching and discovering indie side projects. |
+| **[Uneed](https://uneed.best/)** | Free / $29.99 (one-time) / $9.99/mo | Automatic launch date; 1 post/day; 3 votes/day. | Modern indie product launch platform focused on tools and SaaS. |
+| **[Indie Hackers](https://www.indiehackers.com/)** | Free | Unlimited community posts and product directory listings. | Community and launch platform for bootstrapped founders. |
+| **[Hacker News](https://news.ycombinator.com/)** | Free | No paid promotion; visibility is purely merit-based (Show HN). | Tech community where projects gain visibility through "Show HN". |
+| **[Dev Hunt](https://devhunt.org/)** | Free | Completely free and open-source; no paid tiers. | Developer-focused launch platform for tools and libraries. |
+| **[BetaList](https://betalist.com/)** | Free / $129 (Priority) | 2–4 month wait time; no control over launch timing. | Platform for discovering early-stage startups and indie projects. |
+| **[AppSumo](https://appsumo.com/)** | 30–50% Revenue Share | No upfront cost to list; platform takes a cut of sales. | Marketplace for launching and selling lifetime deals. |
+| **[Product Hunt](https://producthunt.com/)** | Free / $100/mo (Pro) | Standard product submission and community engagement. | The most popular platform for launching new digital products. |
+| **[Launching Next](https://launchingnext.com/)** | Free / $99 (Fast-Track) | Standard moderation queue (can take weeks/months). | Directory of new startups and business ideas. |
+| **[SaaSHub](https://saashub.com/)** | Free / $99/mo (Featured) | Basic listing in directory and alternative pages. | Independent software marketplace and directory. |
+
 ### Core Platforms (Indie Launchpads)
 
 - **[Sidehunt](https://sidehunt.com/)**  
