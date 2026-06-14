@@ -65,7 +65,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-### Dedicated Indie Launchpad & Directory Platforms
+### Top Indie Launchpad & Directory Platforms (Sorted by Stars)
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source automation tool widely used to build custom indie launch notification and promotion systems.
@@ -79,36 +79,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Huginn](https://github.com/huginn/huginn)** [![Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
   Open-source personal automation agent for monitoring and promoting indie launches across platforms.
 
-- **[Docmost](https://github.com/docmost/docmost)** [![Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
-  Open-source collaborative wiki ideal for indie maker communities and launch documentation.
-
-- **[Product Hunt Open-Source Clones](https://github.com/search?q=product+hunt+clone)**  
-  Multiple community-driven open-source alternatives to Product Hunt for self-hosted launch directories.
-
-- **[HackerNews Self-Hosted](https://github.com/search?q=hacker+news+clone)**  
-  Various open-source implementations of discussion-driven launch platforms similar to Hacker News.
-
-- **[Indie Hackers Style Communities](https://github.com/search?q=indie+hackers+clone)**  
-  Open-source platforms replicating community-driven indie maker sharing and launch features.
-
-- **[Launchbase](https://github.com/search?q=launchbase)**  
-  Open-source tools and templates for building your own indie product launch platform.
-
-- **[Dev Hunt Alternatives](https://github.com/search?q=dev+hunt+open+source)**  
-  Community repositories for developer-focused self-hosted launch and discovery platforms.
-
-### Additional Strong Open-Source Options
-
 - **[Cal.com](https://github.com/calcom/cal.com)** [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
   Open-source scheduling for indie launch events and demos.
 
-- **[Betali.st open clones](https://github.com/search?q=betalist+clone)** — Self-hosted early-stage project directories.
-- **[SaaSHub](https://github.com/search?q=saashub+open+source)** — Open-source alternatives for software directories.
-- **[GitHub + Discussions** as launch platforms with custom bots.
-- **[LangGraph + CrewAI** templates for autonomous indie launch promotion agents.
-- Many community **"Show HN" style** self-hosted forums and directories.
+- **[Docmost](https://github.com/docmost/docmost)** [![Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+  Open-source collaborative wiki ideal for indie maker communities and launch documentation.
 
-**Frameworks for building custom launchpads**: Combine **Product Hunt clones**, **n8n**, **Huginn**, and **Twenty** with **Ollama** to create fully open, community-owned indie launch ecosystems.
+- **[Vue Hacker News 2.0](https://github.com/vuejs/vue-hackernews-2.0)** [![Stars](https://img.shields.io/github/stars/vuejs/vue-hackernews-2.0?style=social&color=white)](https://github.com/vuejs/vue-hackernews-2.0/stargazers)  
+  The official Vue.js demo for Server-Side Rendering, frequently used as a base for launch directories.
+
+- **[Hacker News React GraphQL](https://github.com/clintonwoo/hackernews-react-graphql)** [![Stars](https://img.shields.io/github/stars/clintonwoo/hackernews-react-graphql?style=social&color=white)](https://github.com/clintonwoo/hackernews-react-graphql/stargazers)  
+  A production-ready boilerplate using universal JavaScript for news aggregation platforms.
+
+- **[Product Hunt Clone](https://github.com/washingtonsoares/product-hunt-clone)** [![Stars](https://img.shields.io/github/stars/washingtonsoares/product-hunt-clone?style=social&color=white)](https://github.com/washingtonsoares/product-hunt-clone/stargazers)  
+  A popular educational clone featuring upvoting and product feeds for self-hosted launch directories.
+
+- **[SaaS Starter](https://github.com/cedricblondeau/saas-starter)** [![Stars](https://img.shields.io/github/stars/cedricblondeau/saas-starter?style=social&color=white)](https://github.com/cedricblondeau/saas-starter/stargazers)  
+  A robust SaaS starter kit designed for community-driven indie maker sharing and launch features.
+
+- **[DevHunt](https://github.com/MarsX-dev/devhunt)** [![Stars](https://img.shields.io/github/stars/MarsX-dev/devhunt?style=social&color=white)](https://github.com/MarsX-dev/devhunt/stargazers)  
+  The official open-source repository for DevHunt, a modern platform for discovering developer tools.
+
+- **[SaaSHub Clone](https://github.com/bkuhl/saashub.io)** [![Stars](https://img.shields.io/github/stars/bkuhl/saashub.io?style=social&color=white)](https://github.com/bkuhl/saashub.io/stargazers)  
+  A weekend project clone designed to connect developers to free SaaS tools and alternative directories.
+
+### Frameworks & Automation
+
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers) — Multi-agent workflow automation for indie launch promotion.
+- **[CrewAI](https://github.com/joaomdmoura/crewAI)** [![Stars](https://img.shields.io/github/stars/joaomdmoura/crewAI?style=social&color=white)](https://github.com/joaomdmoura/crewAI/stargazers) — Framework for orchestrating role-playing, autonomous AI agents for launches.
+- **[Ollama](https://github.com/ollama/ollama)** [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) — Run large language models locally to power open-source launchpad assistants.
 
 ## How to Contribute
 
