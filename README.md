@@ -128,6 +128,19 @@ We love contributions! Help us keep this the **best resource for indie founders*
 
 ---
 
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Indie-Launchpads&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Launchpads&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Launchpads&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Indie-Launchpads&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
+
+---
 <p align="center">
   <b>Built by Indie Hackers, for Indie Hackers.</b><br>
   ⭐️ Star this repo to support the ecosystem!
