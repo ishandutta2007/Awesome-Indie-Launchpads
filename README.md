@@ -35,31 +35,38 @@ Launching is more than just a day; it's an ecosystem. Utilizing these **Indie La
 
 ## 📊 Table of Contents
 - [💎 SaaS Products](#-saas-products)
+  - [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+  - [💰 Pricing & Scale Comparison](#-pricing--scale-comparison)
 - [🏗️ Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Launch Checklist](#-launch-checklist)
 - [🙌 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
 - [⚖️ Disclaimer](#-disclaimer)
 
 ---
 
 ## 💎 SaaS Products
 
+### 🌐 Sector Overview & Market Dynamics
+
+The global startup launchpad and ecosystem directory sector is estimated at **$1.2B–$1.4B** (growing at ~21% CAGR toward $4B+). The market is **highly fragmented** with an extreme long tail of hundreds of micro-directories, though top-of-funnel attention exhibits power-law concentration around tier-1 anchor platforms like Product Hunt and Hacker News.
+
 ### 💰 Pricing & Scale Comparison
 
 | Platform | Company Size (Est.) | Pricing | Free Tier Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Hacker News](https://news.ycombinator.com/)** | $600B+ (YC) | Free | Purely merit-based (Show HN). | Iconic tech community for organic visibility. |
-| **[AppSumo](https://appsumo.com/)** | $80M+ Revenue | 30–50% Share | No upfront cost to list. | Marketplace for selling lifetime deals. |
-| **[Product Hunt](https://producthunt.com/)** | $20M Valuation | Free / $100/mo | Standard submissions. | The gold standard for product launches. |
-| **[SaaSHub](https://saashub.com/)** | $6.4M Revenue | Free / $99/mo | Basic directory listing. | Independent software marketplace. |
-| **[Indie Hackers](https://www.indiehackers.com/)** | $2.2M Revenue | Free | Unlimited community posts. | Community for bootstrapped founders. |
-| **[BetaList](https://betalist.com/)** | $1M+ Revenue | Free / $129 | 2–4 month wait time. | Discovering early-stage startups. |
-| **[Launching Next](https://launchingnext.com/)** | < $100K Revenue | Free / $99 | Standard moderation queue. | Directory of new startups and ideas. |
-| **[Dev Hunt](https://devhunt.org/)** | < $100K Revenue | Free | Open-source; no paid tiers. | Launchpad for developer tools. |
-| **[Sidehunt](https://sidehunt.com/)** | < $50K Revenue | Free / $19 | Requires site badge. | Platform for indie side projects. |
-| **[Uneed](https://uneed.best/)** | < $10K Revenue | Free / $29.99 | 1 post/day; 3 votes/day. | Modern tool for SaaS discovery. |
-| **[SitePatent](https://sitepatent.com/)** | Not published | Free / $19 | Requires site badge; 7-day wait. | Directory of startups and tools by category and tech stack. |
-| **[MEDIAPRONET](https://mediapronet.com/)** | Not disclosed | Free / $19 one-time | Requires site badge; 7+ day wait. | Curated directory of newly launched startups and SaaS tools. |
+| **[AppSumo](https://appsumo.com/)** | $80M | 30–50% Share | No upfront cost to list. | Marketplace for selling lifetime deals. |
+| **[Product Hunt](https://producthunt.com/)** | $20M | Free / $100/mo | Standard submissions. | The gold standard for product launches. |
+| **[SaaSHub](https://saashub.com/)** | $6.4M | Free / $99/mo | Basic directory listing. | Independent software marketplace. |
+| **[Indie Hackers](https://www.indiehackers.com/)** | $2.2M | Free | Unlimited community posts. | Community for bootstrapped founders. |
+| **[BetaList](https://betalist.com/)** | $1M | Free / $129 | 2–4 month wait time. | Discovering early-stage startups. |
+| **[Dev Hunt](https://devhunt.org/)** | $100K | Free | Open-source; no paid tiers. | Launchpad for developer tools. |
+| **[Launching Next](https://launchingnext.com/)** | $80K | Free / $99 | Standard moderation queue. | Directory of new startups and ideas. |
+| **[Sidehunt](https://sidehunt.com/)** | $40K | Free / $19 | Requires site badge. | Platform for indie side projects. |
+| **[MEDIAPRONET](https://mediapronet.com/)** | $25K | Free / $19 one-time | Requires site badge; 7+ day wait. | Curated directory of newly launched startups and SaaS tools. |
+| **[SitePatent](https://sitepatent.com/)** | $15K | Free / $19 | Requires site badge; 7-day wait. | Directory of startups and tools by category and tech stack. |
+| **[Uneed](https://uneed.best/)** | $10K | Free / $29.99 | 1 post/day; 3 votes/day. | Modern tool for SaaS discovery. |
 
 ---
 
@@ -123,6 +130,19 @@ We love contributions! Help us keep this the **best resource for indie founders*
 2. ✍️ Add your entry (follow the table/list format).
 3. 🔍 Ensure links are active and descriptions are factual.
 4. 🚀 Open a PR with a short note.
+
+---
+
+## 💖 Support
+
+Thank you so much for using and exploring **Awesome Indie Launchpads**! If you find this curated ecosystem helpful, please consider supporting the project:
+
+- ⭐️ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute new launchpads or insights.
+- 📢 **Share** it with your fellow makers, indie hackers, and communities.
+- ☕ **Buy me a coffee:** Support ongoing curation and maintenance via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
 
 ---
 
