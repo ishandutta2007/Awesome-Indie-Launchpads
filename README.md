@@ -60,17 +60,27 @@ The global startup launchpad and ecosystem directory sector is estimated at **$1
 | Platform | Company Size (Est.) | Pricing | Free Tier Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Hacker News](https://news.ycombinator.com/)** | $600B+ (YC) | Free | Purely merit-based (Show HN). | Iconic tech community for organic visibility. |
+| **[Reddit](https://www.reddit.com/r/SideProject/)** | $43B (Market Cap) | Free / Ads | Community self-promotion rules apply. | Massive discussion forums (r/SideProject & r/SaaS) for feedback and launches. |
 | **[AppSumo](https://appsumo.com/)** | $80M | 30–50% Share | No upfront cost to list. | Marketplace for selling lifetime deals. |
 | **[Product Hunt](https://producthunt.com/)** | $20M | Free / $100/mo | Standard submissions. | The gold standard for product launches. |
+| **[DEV Community](https://dev.to/)** | $12M | Free | Open developer blogging & showcases. | Highly active global developer network for technical launches. |
 | **[SaaSHub](https://saashub.com/)** | $6.4M | Free / $99/mo | Basic directory listing. | Independent software marketplace. |
-| **[Indie Hackers](https://www.indiehackers.com/)** | $2.2M | Free | Unlimited community posts. | Community for bootstrapped founders. |
+| **[AlternativeTo](https://alternativeto.net/)** | $3M | Free / Ads | Crowdsourced software suggestions. | Crowdsourced platform to find and list software alternatives. |
+| **[Indie Hackers](https://www.indiehackers.com/)** | $2.2M | Free | Unlimited community posts. | Community and build boards for bootstrapped founders. |
+| **[Peerlist](https://peerlist.io/launchpad)** | $1.1M | Free / $29+ | Weekly launchpad competition. | Professional tech community with a weekly curated product launchpad. |
 | **[BetaList](https://betalist.com/)** | $1M | Free / $129 | 2–4 month wait time. | Discovering early-stage startups. |
 | **[Startup Stash](https://startupstash.com/)** | $300K | Free / $99/yr | Standard editorial review queue. | Curated directory of resources and tools for startups. |
 | **[Dev Hunt](https://devhunt.org/)** | $100K | Free | Open-source; no paid tiers. | Launchpad for developer tools. |
+| **[Pitchwall](https://pitchwall.co/)** | $90K | Free / $49-$99 | 30-day moderation queue. | Product discovery and pitch platform for new startups and AI tools. |
 | **[Launching Next](https://launchingnext.com/)** | $80K | Free / $99 | Standard moderation queue. | Directory of new startups and ideas. |
+| **[Tiny Startups](https://tinystartups.com/)** | $70K | Free / £29+ | Standard queue review. | Launch and discovery platform for micro-startups and indie projects. |
 | **[SideProjectors](https://www.sideprojectors.com/)** | $50K | Free / $10/day | Standard review (2–5 days). | Marketplace & showcase for side projects and micro-businesses. |
+| **[Microlaunch](https://microlaunch.net/)** | $45K | Free / $39/mo | 30-day launch queue. | 30-day extended product launchpad for indie makers. |
 | **[Sidehunt](https://sidehunt.com/)** | $40K | Free / $19 | Requires site badge. | Platform for indie side projects. |
+| **[BuildBoard](https://altern.ai/)** | $35K | Free / $29+ | Standard submission queue. | Weekly competitive launchboard and discovery directory for AI tools. |
+| **[StartupBase](https://startupbase.io/)** | $30K | Free / $39 | 4-5 week queue & site badge. | Community-driven product launch directory and founder discussions. |
 | **[MEDIAPRONET](https://mediapronet.com/)** | $25K | Free / $19 one-time | Requires site badge; 7+ day wait. | Curated directory of newly launched startups and SaaS tools. |
+| **[Fazier](https://fazier.com/)** | $20K | Free / $29-$49 | Requires site badge; 30-day wait. | Daily product launch leaderboards for apps, SaaS, and AI tools. |
 | **[SitePatent](https://sitepatent.com/)** | $15K | Free / $19 | Requires site badge; 7-day wait. | Directory of startups and tools by category and tech stack. |
 | **[Uneed](https://uneed.best/)** | $10K | Free / $29.99 | 1 post/day; 3 votes/day. | Modern tool for SaaS discovery. |
 
