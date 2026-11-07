@@ -1,7 +1,11 @@
 # 🚀 Awesome Indie Launchpads
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=The+Ultimate+Indie+Maker+Launch+Ecosystem;SaaS+Platforms+%2B+Open-Source+Clones;Launch.+Showcase.+Gain+Traction." alt="Awesome Indie Launchpads Banner" />
+  <img src="assets/banner.svg" alt="Awesome Indie Launchpads Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=The+Ultimate+Indie+Maker+Launch+Ecosystem;SaaS+Platforms+%2B+Open-Source+Clones;Launch.+Showcase.+Gain+Traction." alt="Awesome Indie Launchpads Tagline" />
 </p>
 
 <p align="center">
