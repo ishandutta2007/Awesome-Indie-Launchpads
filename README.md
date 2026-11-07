@@ -56,6 +56,7 @@ Launching is more than just a day; it's an ecosystem. Utilizing these **Indie La
 | **[Dev Hunt](https://devhunt.org/)** | < $100K Revenue | Free | Open-source; no paid tiers. | Launchpad for developer tools. |
 | **[Sidehunt](https://sidehunt.com/)** | < $50K Revenue | Free / $19 | Requires site badge. | Platform for indie side projects. |
 | **[Uneed](https://uneed.best/)** | < $10K Revenue | Free / $29.99 | 1 post/day; 3 votes/day. | Modern tool for SaaS discovery. |
+| **[SitePatent](https://sitepatent.com/)** | Not published | Free / $19 | Requires site badge; 7-day wait. | Directory of startups and tools by category and tech stack. |
 | **[MEDIAPRONET](https://mediapronet.com/)** | Not disclosed | Free / $19 one-time | Requires site badge; 7+ day wait. | Curated directory of newly launched startups and SaaS tools. |
 
 ---
