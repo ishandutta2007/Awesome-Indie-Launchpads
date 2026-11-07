@@ -65,8 +65,10 @@ The global startup launchpad and ecosystem directory sector is estimated at **$1
 | **[SaaSHub](https://saashub.com/)** | $6.4M | Free / $99/mo | Basic directory listing. | Independent software marketplace. |
 | **[Indie Hackers](https://www.indiehackers.com/)** | $2.2M | Free | Unlimited community posts. | Community for bootstrapped founders. |
 | **[BetaList](https://betalist.com/)** | $1M | Free / $129 | 2–4 month wait time. | Discovering early-stage startups. |
+| **[Startup Stash](https://startupstash.com/)** | $300K | Free / $99/yr | Standard editorial review queue. | Curated directory of resources and tools for startups. |
 | **[Dev Hunt](https://devhunt.org/)** | $100K | Free | Open-source; no paid tiers. | Launchpad for developer tools. |
 | **[Launching Next](https://launchingnext.com/)** | $80K | Free / $99 | Standard moderation queue. | Directory of new startups and ideas. |
+| **[SideProjectors](https://www.sideprojectors.com/)** | $50K | Free / $10/day | Standard review (2–5 days). | Marketplace & showcase for side projects and micro-businesses. |
 | **[Sidehunt](https://sidehunt.com/)** | $40K | Free / $19 | Requires site badge. | Platform for indie side projects. |
 | **[MEDIAPRONET](https://mediapronet.com/)** | $25K | Free / $19 one-time | Requires site badge; 7+ day wait. | Curated directory of newly launched startups and SaaS tools. |
 | **[SitePatent](https://sitepatent.com/)** | $15K | Free / $19 | Requires site badge; 7-day wait. | Directory of startups and tools by category and tech stack. |

@@ -190,7 +190,7 @@
   <!-- Foreground Feature Badges / Pills -->
   <g class="badge-float" transform="translate(190, 310)">
     <rect x="-10" y="-16" width="185" height="36" rx="18" fill="#111827" stroke="#3b82f6" stroke-width="1.2" opacity="0.95" />
-    <text class="badge-text" x="82" y="6" text-anchor="middle" fill="#93c5fd">✨ 12+ SaaS Launchpads</text>
+    <text class="badge-text" x="82" y="6" text-anchor="middle" fill="#93c5fd">✨ 14+ SaaS Launchpads</text>
   </g>
 
   <g class="badge-float-delayed" transform="translate(405, 310)">
