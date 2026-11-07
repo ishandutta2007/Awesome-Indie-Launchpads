@@ -105,11 +105,11 @@ Launching is more than just a day; it's an ecosystem. Utilizing these **Indie La
 
 ## 🛠️ Launch Checklist
 
-1. [ ] **Prepare Assets:** High-quality screenshots, 1-min video, and clear tagline.
-2. [ ] **Submit to Free Directories:** Indie Hackers, Uneed, and Sidehunt.
-3. [ ] **Plan Your 'Show HN':** Write a compelling story for Hacker News.
-4. [ ] **Product Hunt Timing:** Aim for Tuesday/Wednesday at 12:01 AM PST.
-5. [ ] **Engage:** Respond to every comment and feedback on launch day.
+1. [ ] 🎨 **Prepare Assets:** High-quality screenshots, 1-min video, and clear tagline.
+2. [ ] 🌐 **Submit to Free Directories:** Indie Hackers, Uneed, and Sidehunt.
+3. [ ] 📝 **Plan Your 'Show HN':** Write a compelling story for Hacker News.
+4. [ ] ⏰ **Product Hunt Timing:** Aim for Tuesday/Wednesday at 12:01 AM PST.
+5. [ ] 💬 **Engage:** Respond to every comment and feedback on launch day.
 
 ---
 
@@ -117,16 +117,16 @@ Launching is more than just a day; it's an ecosystem. Utilizing these **Indie La
 
 We love contributions! Help us keep this the **best resource for indie founders**.
 
-1. Fork the repo.
-2. Add your entry (follow the table/list format).
-3. Ensure links are active and descriptions are factual.
-4. Open a PR with a short note.
+1. 🍴 Fork the repo.
+2. ✍️ Add your entry (follow the table/list format).
+3. 🔍 Ensure links are active and descriptions are factual.
+4. 🚀 Open a PR with a short note.
 
 ---
 
 ## ⚖️ Disclaimer
 
-*This list is community-curated. We do not officially endorse any platform. Use your own discretion when sharing data or purchasing services.*
+*⚠️ This list is community-curated. We do not officially endorse any platform. Use your own discretion when sharing data or purchasing services.*
 
 ---
 
