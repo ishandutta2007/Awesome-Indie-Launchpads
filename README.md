@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/github/last-commit/ishan/awesome-indie-launchpads?style=for-the-badge&color=green" alt="Last Commit" />
   <img src="https://img.shields.io/github/issues-pr/ishan/awesome-indie-launchpads?style=for-the-badge&color=orange" alt="PRs Welcome" />
   <img src="https://img.shields.io/github/stars/ishan/awesome-indie-launchpads?style=for-the-badge&color=yellow" alt="Stars" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
