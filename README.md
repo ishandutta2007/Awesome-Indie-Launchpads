@@ -64,6 +64,7 @@ The global startup launchpad and ecosystem directory sector is estimated at **$1
 | **[AppSumo](https://appsumo.com/)** | $80M | 30–50% Share | No upfront cost to list. | Marketplace for selling lifetime deals. |
 | **[Product Hunt](https://producthunt.com/)** | $20M | Free / $100/mo | Standard submissions. | The gold standard for product launches. |
 | **[DEV Community](https://dev.to/)** | $12M | Free | Open developer blogging & showcases. | Highly active global developer network for technical launches. |
+| **[RadarMakers](https://radarmakers.com/)** | Independent small team | Free | Free to submit, listed after review. | Launch platform where live products are ranked by votes, ratings and helpful comments. |
 | **[SaaSHub](https://saashub.com/)** | $6.4M | Free / $99/mo | Basic directory listing. | Independent software marketplace. |
 | **[AlternativeTo](https://alternativeto.net/)** | $3M | Free / Ads | Crowdsourced software suggestions. | Crowdsourced platform to find and list software alternatives. |
 | **[Indie Hackers](https://www.indiehackers.com/)** | $2.2M | Free | Unlimited community posts. | Community and build boards for bootstrapped founders. |
